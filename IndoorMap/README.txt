@@ -1,4 +1,4 @@
-READ ME 4
+READ ME 4 4
 Licensing and Installation of Sample Files for Dreamweaver
 
 Table of contents
